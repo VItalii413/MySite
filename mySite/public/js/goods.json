@@ -1,0 +1,23 @@
+{
+    "Roll1": {
+        "name": "Филадельфия",
+        "cost": 200,
+        "description": "Очень вкусные",
+        "order" : 3,
+        "img": "Sushi1.png"
+    },
+    "Roll2" : {
+        "name": "Маки лосось",
+        "cost": 300,
+        "description": "Очень вкусные",
+        "order" : 3,
+        "img": "Sushi-1.jpg"
+    },
+    "Roll3" : {
+        "name": "Калифорния",
+        "cost": 200,
+        "description": "Очень вкусные",
+        "order" : 3,
+        "img": "Sushi-3.jpg"
+    }
+}
